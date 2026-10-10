@@ -145,3 +145,103 @@ details>summary{cursor:pointer;font-weight:750;margin-bottom:8px}
 .help-steps{padding-left:24px;line-height:1.9}
 @media(max-width:480px){.data-menu-grid{grid-template-columns:1fr}.data-menu-card{min-height:75px}.asset-total{flex-direction:column;align-items:start;gap:2px}}
 @media(min-width:900px){.desktop-panel-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.desktop-panel-grid .panel{margin:0}}
+
+
+/* v0.2.10: SlotTracker共通UI。ホーム・カレンダーの配置・文字色・余白を統一 */
+:root{color:#111827}
+body{color:#111827}
+.topbar{background:#111827}
+.app-title{font-weight:800;font-size:17px;letter-spacing:normal}
+.app-subtitle{font-size:11px;opacity:.7;margin-top:1px;color:#fff}
+.page-title{color:#111827;margin:4px 0 14px}
+.panel{border-color:#e5e7eb}
+.muted{color:#6b7280}
+.list-card{color:#111827;border-color:#e5e7eb;background:#fff}
+.list-card small{color:#6b7280}
+.field span{color:#374151}
+.kpi{background:#f9fafb}
+.kpi span{color:#6b7280}
+.shop-choice{color:#111827;border-color:#d1d5db}
+.shop-choice small{color:#6b7280}
+.eyebrow{color:#6b7280;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.primary{background:#111827;color:#fff;border-color:#111827}
+.secondary,.button{color:#111827;border-color:#d1d5db}
+.bottom-nav{border-color:#e5e7eb}
+.bottom-nav a{color:#6b7280}
+.bottom-nav a.active{background:#f3f4f6;color:#111827}
+.bottom-nav a span{font-size:19px}
+.bottom-nav a small{font-size:10px;font-weight:600}
+.hero-panel h2{font-size:23px;margin:2px 0 4px;color:#111827}
+.entry-main-button{min-height:70px;width:100%;font-size:19px;letter-spacing:.02em;margin-top:14px;border-radius:12px}
+.picker-section-title{margin-top:10px;margin-bottom:6px;font-size:12px;font-weight:800;color:#374151}
+.quick-shop{min-height:58px;padding:10px 12px;background:#fff;border-color:#d1d5db;color:#111827}
+.quick-shop.favorite{border-color:#9ca3af}
+.quick-shop small{color:#6b7280}
+/* カレンダー：スロット版と同じ1列の月ナビ・日付左寄せ */
+.month-switcher{display:flex;align-items:center;justify-content:space-between;gap:5px;margin-bottom:12px}
+.month-switcher .icon-button{flex:0 0 42px;width:42px;height:44px;border:1px solid #d1d5db;border-radius:12px;background:#fff;color:#111827;font-size:24px;line-height:1}
+.month-input-label{flex:1;min-width:0}
+.month-input-label input{width:100%;min-width:0;min-height:44px;padding:8px 4px;border:1px solid #d1d5db;border-radius:11px;background:#fff;color:#111827;font-size:15px;font-weight:700;text-align:center}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.calendar-actions{display:flex;justify-content:flex-end;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+.calendar-panel .calendar-grid{grid-template-columns:repeat(7,minmax(0,1fr));gap:4px;margin-top:0}
+.calendar-panel .calendar-grid.weekday{margin-bottom:5px;text-align:center;font-size:11px;color:#6b7280}
+.calendar-panel .calendar-grid.weekday span{padding:2px 0}
+.calendar-panel .calendar-day{min-height:68px;min-width:0;display:flex;align-items:flex-start;flex-direction:column;gap:3px;padding:5px;border:1px solid #e5e7eb;border-radius:9px;background:#fff;color:#111827;text-align:left;overflow:hidden}
+.calendar-panel .calendar-day.blank{border:0;background:transparent}
+.calendar-panel .calendar-day.selected{outline:2px solid #111827;outline-offset:-2px;background:#fff}
+.calendar-panel .day-number{font-size:12px;font-weight:700;color:#111827;line-height:1.3}
+.calendar-panel .day-money{font-size:10px;font-weight:800;max-width:100%;overflow:hidden;white-space:nowrap}
+.calendar-panel .day-count{font-size:9px;color:#6b7280}
+.plus{color:#047857}
+.minus{color:#b91c1c}
+.calendar-day-kpis{margin-top:14px}
+.calendar-day-kpis .kpi{background:#f9fafb;border-radius:12px;padding:11px}
+.calendar-day-kpis .kpi span{font-size:11px;color:#6b7280;margin-bottom:4px}
+.calendar-day-kpis .kpi strong{font-size:16px;overflow-wrap:anywhere}
+.day-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.day-heading h2{margin:2px 0 4px}
+.day-visit-list{display:grid;gap:10px;margin-top:16px}
+.visit-summary{border:1px solid #d1d5db;border-radius:12px;padding:12px}
+.visit-summary summary{display:flex;align-items:center;justify-content:space-between;gap:12px;cursor:pointer;list-style:none;margin-bottom:0;font-weight:700}
+.visit-summary summary::-webkit-details-marker{display:none}
+.visit-summary-title{display:flex;flex-direction:column;gap:5px;min-width:0}
+.visit-summary-title strong{overflow-wrap:anywhere}
+.visit-summary-title small{font-size:12px;color:#6b7280}
+.visit-summary summary .money{flex-shrink:0}
+.visit-actions{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.visit-summary .list-card{margin:7px 0}
+.visit-summary .list-card strong{color:#111827}
+.money{white-space:nowrap;font-weight:800}
+.day-row-action{background:none;border:0;padding:8px 6px;min-height:44px;min-width:52px;color:#111827;font-weight:800;text-decoration:underline;cursor:pointer;text-align:left}
+.selected-day-row{background:#f3f4f6}
+.data-table td.plus,.data-table th.plus{color:#047857}
+.data-table td.minus,.data-table th.minus{color:#b91c1c}
+.day-detail-panel{scroll-margin-top:20px}
+@media(max-width:420px){
+ .calendar-panel .calendar-grid{gap:2px}
+ .calendar-panel .calendar-day{min-height:56px;padding:3px;border-radius:7px}
+ .month-switcher{gap:3px}
+ .month-switcher .icon-button{width:35px;flex-basis:35px;font-size:20px}
+ .month-input-label input{font-size:13px;padding:6px 2px}
+ .visit-summary summary{align-items:flex-start}
+ .visit-summary summary .money{white-space:normal;text-align:right}
+ .day-row-action{min-width:42px}
+}
+@media(min-width:768px){
+ .app-shell{background:linear-gradient(90deg,#111827 0,#111827 210px,#f4f6f8 210px,#f4f6f8 100%)}
+ .topbar{background:#111827;min-height:88px;padding:22px 18px 14px}
+ .app-title{font-size:18px}
+ .bottom-nav{background:#111827;top:88px;height:calc(100vh - 88px);padding:10px 12px 20px}
+ .bottom-nav a{min-height:48px;grid-template-columns:30px 1fr;gap:9px;padding:8px 12px;color:#cbd5e1;border-radius:11px}
+ .bottom-nav a small{font-size:13px;font-weight:700}
+ .bottom-nav a.active{background:#fff;color:#111827}
+ .main-content{width:min(1120px,100%);padding:28px 34px 48px}
+ .page-title{font-size:29px;margin:2px 0 18px}
+ .panel{padding:18px 20px;margin-bottom:16px}
+}
+@media(min-width:1200px){
+ .app-shell{grid-template-columns:230px minmax(0,1fr);background:linear-gradient(90deg,#111827 0,#111827 230px,#f4f6f8 230px,#f4f6f8 100%)}
+ .bottom-nav{width:230px}
+ .main-content{width:min(1240px,100%);padding-left:42px;padding-right:42px}
+}

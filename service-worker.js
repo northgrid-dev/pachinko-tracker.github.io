@@ -1,4 +1,4 @@
-/* Manifest version: GiROykJN */
+/* Manifest version: DlF92Ovr */
 self.importScripts('./service-worker-assets.js');
 
 const cacheNamePrefix = 'pachinkotracker-cache-';

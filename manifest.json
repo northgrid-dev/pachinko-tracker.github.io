@@ -5,7 +5,7 @@
     "scope":  "/pachinko-tracker.github.io/",
     "display":  "standalone",
     "background_color":  "#f4f6f8",
-    "theme_color":  "#142333",
+    "theme_color":  "#111827",
     "icons":  [
                   {
                       "src":  "icon-192-v024.png",
