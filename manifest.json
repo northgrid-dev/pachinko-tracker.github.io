@@ -1,0 +1,23 @@
+{
+    "name":  "PachinkoTracker パチンコ収支・回転率管理",
+    "short_name":  "PachinkoTracker",
+    "start_url":  "/pachinko-tracker.github.io/",
+    "scope":  "/pachinko-tracker.github.io/",
+    "display":  "standalone",
+    "background_color":  "#f4f6f8",
+    "theme_color":  "#142333",
+    "icons":  [
+                  {
+                      "src":  "icon-192.png",
+                      "type":  "image/png",
+                      "sizes":  "192x192",
+                      "purpose":  "any maskable"
+                  },
+                  {
+                      "src":  "icon-512.png",
+                      "type":  "image/png",
+                      "sizes":  "512x512",
+                      "purpose":  "any maskable"
+                  }
+              ]
+}
