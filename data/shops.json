@@ -6332,7 +6332,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "36493",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/maruhan-tsuchiura/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.11,
+        "loanBallsPer1000Yen": 900.9,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/maruhan-tsuchiura/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "MAY BACH",
@@ -6352,7 +6372,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "13438",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 300.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/may%E3%80%80bach/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1200.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/may%E3%80%80bach/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "レイト鹿嶋",
@@ -6432,7 +6472,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "44129",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/g-hitachinaka/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1100.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/g-hitachinaka/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "レイト神栖",
@@ -6552,7 +6612,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "35871",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/%E3%83%80%E3%82%A4%E3%82%A8%E3%83%BC%E6%97%A5%E7%AB%8B%E5%BA%97/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "東海UNU",
@@ -6612,7 +6683,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "11903",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/kicona-nakane/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "満月 岩瀬店",
@@ -6672,7 +6754,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "86819",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/ibaraki-jupiter707/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ジュピター千代田店",
@@ -6912,7 +7005,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "23168",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/alive-hitatinaka/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "丸愛駅前店",
@@ -7272,7 +7376,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "62816",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=2",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/%E3%83%8B%E3%83%A9%E3%82%AF%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%BA%97/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ニラク常陸大宮店",
@@ -8232,7 +8347,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/alive-hitachiohta/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.33,
+        "loanBallsPer1000Yen": 751.88,
+        "exchangeBallsPer1000Yen": 830.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/alive-hitachiohta/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ダイナム茨城古河東店",
@@ -8921,7 +9056,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/kawadahigashi/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ビックマーチ藤代店",
@@ -9110,7 +9256,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/bigmarch-keyaki/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1100.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/bigmarch-keyaki/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ロイヤル波崎店",
@@ -9219,7 +9385,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/ibaraki/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 275.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/mgm-hitachi/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ビックマーチひたちなか店",
@@ -10039,7 +10216,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "69533",
-    "pworldListUrl": "https://www.p-world.co.jp/iwate/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/iwate/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 280.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/maruhan-k-fujisawa/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.12,
+        "loanBallsPer1000Yen": 892.86,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/maruhan-k-fujisawa/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "マルハン北上店",
@@ -10472,7 +10669,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "57759",
-    "pworldListUrl": "https://www.p-world.co.jp/iwate/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/iwate/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 280.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/%E3%82%AB%E3%83%8D%E3%83%9E%E3%83%B3%E9%87%91%E3%83%B6%E5%B4%8E/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "パチンコダイイチ水沢店",
@@ -10492,7 +10700,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "45621",
-    "pworldListUrl": "https://www.p-world.co.jp/iwate/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/iwate/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 280.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/daiichi-mizusawa/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ＪＡＭ ＦＲＩＥＮＤ ＣＬＵＢ久慈",
@@ -11234,7 +11453,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "59776",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/pia-k/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/pia-k/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "プレゴ所沢店",
@@ -11374,7 +11613,36 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "31970",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/p-ark-kasukabe/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/p-ark-kasukabe/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 0.5,
+        "loanBallsPer1000Yen": 2000.0,
+        "exchangeBallsPer1000Yen": 2000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/p-ark-kasukabe/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "パラッツォ鳩ヶ谷店",
@@ -11494,7 +11762,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "99600",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/%E3%82%84%E3%81%99%E3%81%A0%E6%89%80%E6%B2%A2%E5%BA%97/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/%E3%82%84%E3%81%99%E3%81%A0%E6%89%80%E6%B2%A2%E5%BA%97/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "Ｒ７ ＳＴＲＯＮＧ",
@@ -12134,7 +12422,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "93589",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/derupara-kawaguchi/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/derupara-kawaguchi/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "キコーナ草加店",
@@ -12434,7 +12742,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "20394",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=2"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=2",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/asuka-kumagayaekimae/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/asuka-kumagayaekimae/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "コトブキプラス蓮沼店",
@@ -13174,7 +13502,45 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "97035",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=2"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=2",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 2.0,
+        "loanBallsPer1000Yen": 500.0,
+        "exchangeBallsPer1000Yen": 500.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 0.5,
+        "loanBallsPer1000Yen": 2000.0,
+        "exchangeBallsPer1000Yen": 2000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/newgrand-shintoko/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "一番舘 越谷店",
@@ -13314,7 +13680,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "32690",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/maruhan-tokorozawa/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/maruhan-tokorozawa/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ニューダイエイIII",
@@ -13534,7 +13920,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/mobius/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/mobius/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "アリーナ鶴瀬店",
@@ -14014,7 +14420,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "76445",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/320-2/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/320-2/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "第一プラザ武州長瀬店",
@@ -14214,7 +14640,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=3",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/wing-sankei/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/wing-sankei/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "メガボックス北本店",
@@ -14414,7 +14860,36 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "97328",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/d-plaza-kasahata/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/d-plaza-kasahata/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 0.2,
+        "loanBallsPer1000Yen": 5000.0,
+        "exchangeBallsPer1000Yen": 5000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/d-plaza-kasahata/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "一番舘 草加店",
@@ -14494,7 +14969,18 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "10409",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/%E3%83%88%E3%83%AF%E3%83%BC%E3%82%BA%E7%8B%AD%E5%B1%B1%E3%83%B6%E4%B8%98%E5%BA%97/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "コトブキプラス草加店",
@@ -14534,7 +15020,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "73178",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/jaran-takesato/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/jaran-takesato/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ジャムフレンドクラブ朝霞",
@@ -14734,7 +15240,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "82051",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=4",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/dstation-k/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/dstation-k/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "第一プラザ坂戸1000",
@@ -15634,7 +16160,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=5"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=5",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/win/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/win/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ダイエー児玉店",
@@ -16114,7 +16660,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "33547",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=5"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=5",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/gold-on-n-kawaguchi/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/gold-on-n-kawaguchi/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "ダイナム埼玉深谷花園店",
@@ -16514,7 +17080,27 @@
     "addressSource": "P-WORLD",
     "addressVerifiedAt": "2026-10-12",
     "pworldHallNumber": "90319",
-    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=6"
+    "pworldListUrl": "https://www.p-world.co.jp/saitama/halls?page=6",
+    "pachinkoExchange": [
+      {
+        "loanYenPerBall": 4.0,
+        "loanBallsPer1000Yen": 250.0,
+        "exchangeBallsPer1000Yen": 250.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/toho-kawagoe/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      },
+      {
+        "loanYenPerBall": 1.0,
+        "loanBallsPer1000Yen": 1000.0,
+        "exchangeBallsPer1000Yen": 1000.0,
+        "source": "みんパチ公開参考値（未現地確認）",
+        "sourceUrl": "https://minpachi.com/toho-kawagoe/",
+        "verifiedAt": "2026-10-12",
+        "note": "2026-10-12参照。現行の交換率は店舗で確認。個人設定優先。"
+      }
+    ]
   },
   {
     "name": "パーラーEX滑川店",

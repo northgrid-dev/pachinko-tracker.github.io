@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "XwnBHZXj",
+  "version": "G6NSCzg2",
   "assets": [
     {
       "hash": "sha256-xy5v+v/lJ+l/8hP+TFAJIgNj0/vSCTlOiKDK4wRJ8/s=",
@@ -182,7 +182,7 @@ self.assetsManifest = {
       "url": "data/pachinko-machines.json"
     },
     {
-      "hash": "sha256-ckn8Zdlsq8nJRZ5R/jczZp5hnEoZRPA5SPSsG4pZeQo=",
+      "hash": "sha256-/YKclk99MafEjXMmhuYFCXXpFX+BesUVb6xhgIlPmlg=",
       "url": "data/shops.json"
     },
     {
