@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "DlF92Ovr",
+  "version": "a0bAaySi",
   "assets": [
     {
       "hash": "sha256-xy5v+v/lJ+l/8hP+TFAJIgNj0/vSCTlOiKDK4wRJ8/s=",
@@ -58,8 +58,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.JSInterop.wdufxhpzaj.wasm"
     },
     {
-      "hash": "sha256-U+fvxEhUQhX9GN2ztAszZchZTMu8z19gYo94beA0CxI=",
-      "url": "_framework/PachinkoTracker.Pwa.p9l4ksl4l6.wasm"
+      "hash": "sha256-TYoRqacAkNnSxVcLBGqRB9EjnGE4epDzyxfsC/p6eXU=",
+      "url": "_framework/PachinkoTracker.Pwa.bawhcnrnz2.wasm"
     },
     {
       "hash": "sha256-QrF4aSrbKb1flUIbNc9X4mlqwQv24dWPZ8rWZJJOOn0=",
@@ -146,7 +146,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-B8/8xDQ0kE20sqHOpDL5b32kzeTQWKPfur9m83mSi4M=",
+      "hash": "sha256-AQMmBYd3Oxq7SoG2Z+zVrP6KD/EPGf1lR9KPosB3RU8=",
       "url": "_framework/dotnet.js"
     },
     {
@@ -182,7 +182,7 @@ self.assetsManifest = {
       "url": "data/pachinko-machines.json"
     },
     {
-      "hash": "sha256-KlJ8Oz7ljQnIw03DDY+dJPNLagPB/YN+JVBt4PnGicw=",
+      "hash": "sha256-oHZSO+7f6QPjum8Uc8Ek6wUUi0y/62v2Qt0Fnbl8efE=",
       "url": "data/shops.json"
     },
     {
